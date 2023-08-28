@@ -328,7 +328,6 @@ header .menu.active {
     overflow: hidden;
     background: linear-gradient(transparent,var(--primary));
     transform:rotateY(calc(90deg * var(--i))) translateZ(150px);
-    /* 300px / 2 = 150px */
 }
 
 .shadow {
@@ -453,40 +452,6 @@ header .menu.active {
     color:var(--primary);
 }
 
-/* Video Play and Pause Button 
-
-.banner .play,
-.banner .pause {
-    display: none;
-    position: absolute;
-    left:70%;
-    top:50%;
-    transform: translate(-50%,-50%);
-    color:var(--primary);
-    font-size: 8em;
-    cursor: pointer;
-    z-index: 100;
-    opacity: 0.3;
-    transition: 0.3s;
-}
-
-.banner .play:hover,
-.banner .pause:hover{
-    color:#ffffff;
-    opacity: 1;
-}
-
-.banner .play.active {
-    display: block;
-}
-
-.banner .pause.active {
-    display: block;
-}
-
-*/
-
-
 /* footer */
 #footer {
     width: 100%;
@@ -566,7 +531,6 @@ header .menu.active {
         height: 100vh;
         display: flex;
         flex-direction: column;
-        /* border:none;*/
     }
 
     .banner{
