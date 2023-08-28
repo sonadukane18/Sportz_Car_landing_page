@@ -30,7 +30,7 @@ A dynamic and responsive sports car : McLAREN || website landing page using HTML
 Link for the demo :
 
 #Screenshot :
-![Webpage_Screenshot_2](https://github.com/sonadukane18/McLAREN_landing_page/assets/120325353/9e3777b4-12e6-4c8c-8083-b1f9bc85d632)
+
 ![Webpage_Screenshot](https://github.com/sonadukane18/McLAREN_landing_page/assets/120325353/2f50fa43-2417-4132-9418-300d79f8bae3)
 
 
