@@ -1,4 +1,3 @@
-/*const { document } = require("postcss");*/
 
 // toggle menu button
 function toggleMenu(){
@@ -8,17 +7,6 @@ function toggleMenu(){
     menu.classList.toggle('active');
     nav.classList.toggle('active');
 }
-
-/*function toggleMenu(){
-    console.log("toggleMenu() called");
-    const nav = document.querySelector('.nav');
-    if(nav) {
-        nav.classList.toggle('active');
-    } else {
-        console.log("Nav element not found");
-    }
-}*/
-
 
 
 // To change the bg videos by clicking on the gallery images..
@@ -56,35 +44,6 @@ trailers.forEach(trailer =>{
     }
 });
 
-
 }
 
-// Change the play and pause button on a click event 
-/*
-function toggleplay(){
-    const play = document.querySelector('.play');
-    const pause = document.querySelector('.pause');
-    play.classList.toggle('active');
-    pause.classList.toggle('active');
-}
 
-// Video Play Pause
-
-function pauseVideo(){
-    const bgVideoList = document.querySelectorAll('.bg-video');
-    bgVideoList.forEach(video => {
-        video.pause();
-    });
-
-    toggleplay();
-}
-
-function playVideo(){
-    const bgVideoList = document.querySelectorAll('.bg-video');
-    bgVideoList.forEach(video => {
-        video.play();
-    });
-
-    toggleplay();
-}
-*/
