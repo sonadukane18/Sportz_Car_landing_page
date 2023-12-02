@@ -10,8 +10,6 @@
 * Surrounding light glowing effect
   
 * Image Gallery Carousel
-  
-* Dynamic video pause/play effects
  
 * Animated border effect
   
