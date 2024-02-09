@@ -1,29 +1,29 @@
 # McLAREN_landing_page
- A dynamic and responsive sports car : McLAREN || website landing page using HTML, CSS and JavaScript , capturing the essence of speed and style with remarkable features that excites all car enthusiasts..
+ A dynamic and responsive sports car : `McLAREN` || website landing page using HTML, CSS and JavaScript , capturing the essence of speed and style with `remarkable features` that excites all car enthusiasts..
 
 #The Main features of this website are :
 
-* Video Background Carousel
+* `Video Background Carousel`
   
-* 3D rotating cubic display
+* `3D rotating cubic display`
  
-* Surrounding light glowing effect
+* `Surrounding light glowing effect`
   
-* Image Gallery Carousel
+* `Image Gallery Carousel`
  
-* Animated border effect
+* `Animated border effect`
   
-* Animated Text
+* `Animated Text`
   
-* Animated Navigation and Menu
+* `Animated Navigation and Menu`
  
-* Responsive Website
+* `Responsive Website`
  
-* Glassmorphic blur effect
+* `Glassmorphic blur effect`
 
 #Demo :
 
-A dynamic and responsive sports car : McLAREN || website landing page using HTML, CSS and JavaScript , capturing the essence of speed and style with remarkable features .
+A dynamic and responsive sports car : `McLAREN` || website landing page using HTML, CSS and JavaScript , capturing the essence of speed and style with `remarkable features` .
 
 * Link for the demo : https://mclaren-landing-page-web.netlify.app/
 
