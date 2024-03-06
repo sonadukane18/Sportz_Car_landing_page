@@ -25,7 +25,7 @@
 
 A dynamic and responsive sports car : `McLAREN` || website landing page using HTML, CSS and JavaScript , capturing the essence of speed and style with `remarkable features` .
 
-* Link for the demo : https://mclaren-landing-page-web.netlify.app/
+* Link for the demo : [https://mclaren-landing-page-web.netlify.app/](https://sonadukane18.github.io/Sportz_Car_landing_page/)
 
 #Screenshot :
 
